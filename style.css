@@ -1,0 +1,166 @@
+*{
+    font-family: 'poppins', sans-serif;
+    color: #22577E;
+}
+
+/* NAVBAR */
+.logo{
+    width: 135px;
+    height: 45px;
+}
+.nav-link{
+    color: #22577E;
+}
+.btn{
+    color: #22577E;
+    border: #22577E 1px solid;
+}
+.btnn{
+    background-color: #22577E;
+    border: none;
+    color: white;
+}
+
+/* HEADER */
+.header{
+    height: 100vh;
+    background-image: url(img/header.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box-header{
+    background-color: white;
+    margin-top: 20px;
+}
+.header-text{
+    font-size: 80px;
+}
+.header-btn{
+    background-color: #22577E;
+    border: none;
+    color: white;
+    margin-top: 225px;
+}
+
+/* ABOUT */
+.about-bg{
+    background-color: #22577E;;
+    width: 70%;
+    height: 100vh;
+}
+.about-img{
+    height: 100vh;
+}
+.box-about{
+    width: 70%;
+    margin-top: -350px;
+    margin-left: 100px;
+    margin-bottom: 15rem;
+}
+.card-about{
+    width: 40%;
+}
+.garis2{
+    background-color: #22577E;
+    width: 100px;
+    height: 5px;
+}
+.about-text{
+    font-size: 50px;
+    margin: 100px;
+}
+.about-text1{
+    font-size: small;
+}
+
+/* SERVICE */
+.card-img{
+    width: 65px;
+    height: 65px;
+}
+.btn-service{
+    background-color: #95D1CC;
+    color: #22577E;
+    border: none;
+}
+.garis{
+    background-color: #22577E;
+    width: 250px;
+    height: 5px;
+}
+
+/* DOCTOR */
+.doctor-img{
+    width: 150px;
+    height: 150px;
+}
+.flex-text p{
+    border-bottom: gray 1px solid;
+    font-size: 90%;
+}
+.span-text{
+    color: gray;
+    font-size: small;
+}
+.arrow{
+    width: 25px;
+    height: 25px;
+}
+.link-doctor{
+    justify-content: center;
+}
+
+/* PATIENT */
+.patient-bg{
+    background-color: #22577E;;
+    width: 70%;
+    height: 100vh;
+}
+.patient-img{
+    height: 100vh;
+}
+.box-patient{
+    width: 70%;
+    margin-top: -350px;
+    margin-left: 380px;
+    margin-bottom: 10rem;
+}
+.card-patient{
+    width: 40%;
+}
+.patient-text{
+    font-size: 50px;
+    margin: 100px 0 70px 70px;
+}
+.patient-text1{
+    margin-top: -70px;
+    margin-left: 70px;
+}
+.patient-img{
+    width: 40px;
+    height: 40px;
+}
+
+/* FOOTER */
+.footerbg{
+    background-color: #22577E;
+}
+.logo2{
+    width: 250px;
+    height: 100px;
+}
+.footer-img{
+    width: 30px;
+    height: 30px;
+}
+.footer-btn{
+    background-color: #95D1CC;
+    border: none;
+}
+.footer-text{
+    font-size: smaller;
+}
+.list ul li{
+    list-style: none;
+    font-size: smaller;
+}
